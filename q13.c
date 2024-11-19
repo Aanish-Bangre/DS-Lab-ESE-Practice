@@ -3,11 +3,6 @@
 // ● Given 1→1 → 2,    return 1 → 2
 // ● Given 1 → 1 → 2 → 3 → 3,  return 1 → 2 → 3
 
-// Given a singly linked list, determine if it's a palindrome. Return 1 or 0 denoting if it's a
-// palindrome or not, respectively. For example
-// a. List 1 → 2 → 1 is a palindrome.
-// b. List 1 → 2 → 3 is not a palindrome
-
 #include <stdio.h>
 #include <stdlib.h>
 

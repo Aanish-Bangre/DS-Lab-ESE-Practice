@@ -3,11 +3,6 @@
 // b. concatenate two lists
 // c. display
 
-// Implement the following operations on doubly linked lists:
-// a. Insert (after position)
-// b. sort the list
-// c. display
-
 #include <stdio.h>
 #include <stdlib.h>
 
