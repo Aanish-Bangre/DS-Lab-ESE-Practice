@@ -97,7 +97,7 @@ char* infix_to_prefix(char* infix) {
     }
     prefix[j] = '\0';
     
-    char *finalPrefix = reverseString(prefix);\
+    char *finalPrefix = reverseString(prefix);
 
     return finalPrefix;
 }
